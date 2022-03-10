@@ -1,5 +1,5 @@
 # 리트코드 622
-# 원형큐 구현 코드
+# 원형큐 구현
 
 class MyCirculurQueue:
     def __init__(self, k):
